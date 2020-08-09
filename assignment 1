@@ -1,0 +1,46 @@
+<Doctype html!>
+<html>
+<head>
+<title>Assignment 1</title>
+<style>
+#n1{
+float:left;
+border: 5px outset black;
+background-color:gray;
+width:30%;
+padding:5px;
+}
+#n2{
+float:left;
+border: 5px outset black;
+background-color:gray;
+width:30%;
+padding:5px;
+}
+#n3{
+float:right;
+border: 5px outset black;
+background-color:gray;
+width:30%
+}
+h1{
+text-align:center;
+}
+</style>
+</head>
+<body>
+<h1>Our menu</h1>
+<div id="n1">
+<h3 align='right'>Chicken</h3>
+<p>lorem ipsum dolor sit omel ,consectetur adipising elit, sed lo eisumod tempor incidunt ut labore et dolore magna aliqua .Ut enim od minim veniam ,quis nostud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+</div>
+<div id="n2">
+<h3 align='right'>Beef</h3>
+<p>lorem ipsum dolor sit amet ,consrctur adipiliscing elit,sed to eiusmod tempor incididunt ut labore et dolore manga aliqua .Ut enim ad minim veniam ,quis nostud exercitation ullamco lobris nisi ut aliquip ex ca commodo consequat</p>
+</div>
+<div id="n3">
+<h3 align='right'>Sushi</h3>
+<p>lorem ipsum dolor sit amet ,consectetur adipiliscing elit,sed to eiusmod tempor incididunt ut labore et dolore manga aliqua .Ut enim ad minim veniam ,quis nostud exercitation ullamco lobris nisi ut aliquip ex ca commodo consequat </p>
+</div>
+</body>
+</html>
